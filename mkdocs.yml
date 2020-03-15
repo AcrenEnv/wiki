@@ -1,0 +1,27 @@
+site_name: 'Acren Wiki'
+site_url: https://wiki.acren.org
+site_author: 'Acren Team'
+site_description: 'Learn about Acren'
+repo_name: '/AcrenEnv-wiki'
+repo_url: https://github.com/AcrenEnv/wiki
+edit_uri: edit/master/wiki/
+docs_dir: wiki
+
+
+theme:
+  name: null
+  custom_dir: material
+  language: en
+  palette:
+    primary: Light Green
+    accent: Light Green
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo:
+    icon: "\uE80C"
+  feature:
+    tabs: true
+
+nav:
+    - Welcome: 'index.md'

@@ -21,11 +21,25 @@ theme:
   logo:
     icon: "\uE80C"
   feature:
-    tabs: true
+    tabs: false
 
 nav:
-    - Welcome: 'index.md'
-    - Acren Overview
-    - Technical Overview
-    - Project management
-    - Project management
+    -  Welcome: 'index.md'
+    -  Acren Overview: 
+        - About Acren: 'acrenOverview/index.md'
+        - Vision: 'acrenOverview/vision.md'
+        - Mission: 'acrenOverview/mission.md'
+        - Roadmap: 'acrenOverview/roadmap.md'
+    -  Technical Overview: 
+        - Structure: 'technicalOverview/index.md'
+        - Developer Guide: 'technicalOverview/index.md'
+    -  Project management: 
+        - Overview: 'projectManagement/index.md'
+        - Goal of System: 'technicalOverview/index.md'
+        - Actors: 'technicalOverview/index.md'
+        - User-Stories: 'technicalOverview/index.md'
+        - Smart Contracts: 'technicalOverview/index.md'
+        - Frontend: 'technicalOverview/index.md'
+        - Tests & Security: 'technicalOverview/index.md'
+    -  More: 
+        - FAQ: 'more/index.md'

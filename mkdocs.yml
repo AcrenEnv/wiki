@@ -31,15 +31,15 @@ nav:
         - Mission: 'acrenOverview/mission.md'
         - Roadmap: 'acrenOverview/roadmap.md'
     -  Technical Overview: 
-        - Structure: 'technicalOverview/index.md'
-        - Developer Guide: 'technicalOverview/index.md'
+        - Structure: 'technicalOverview/structure.md'
+        - Developer Guide: 'technicalOverview/developerGuide.md'
     -  Project management: 
         - Overview: 'projectManagement/index.md'
-        - Goal of System: 'technicalOverview/index.md'
-        - Actors: 'technicalOverview/index.md'
-        - User-Stories: 'technicalOverview/index.md'
-        - Smart Contracts: 'technicalOverview/index.md'
-        - Frontend: 'technicalOverview/index.md'
-        - Tests & Security: 'technicalOverview/index.md'
+        - Goal of System: 'projectManagement/goal.md'
+        - Actors: 'projectManagement/actors.md'
+        - User-Stories: 'projectManagement/userStories.md'
+        - Smart Contracts: 'projectManagement/contracts.md'
+        - Frontend: 'projectManagement/frontend.md'
+        - Tests & Security: 'projectManagement/securityTests.md'
     -  More: 
         - FAQ: 'more/index.md'
